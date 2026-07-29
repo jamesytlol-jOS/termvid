@@ -2,11 +2,11 @@
 termvid is a tool for watching videos in your terminal
 
 # what do i need
-terminal
-python (with opencv2)
-ffmpeg
-a video
-git (optional)
+- terminal
+- python (with opencv2)
+- ffmpeg
+- a video
+- git (optional)
 
 # how do i do it
 1. install python3, python3-opencv, ffmpeg, (optional) git
